@@ -1,0 +1,23 @@
+{
+  "name": "chartjs-shortcodes",
+  "version": "1.0.0",
+  "description": "chartjs-shortcodes",
+  "main": "index.js",
+  "dependencies": {
+    "chart.js": "^2.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HadenHiles/chartjs-shortcodes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HadenHiles/chartjs-shortcodes/issues"
+  },
+  "homepage": "https://github.com/HadenHiles/chartjs-shortcodes#readme"
+}
